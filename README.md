@@ -4,7 +4,7 @@
 - 👀 I’m interested computer programming & ethical hacking
 - 🌱 I’m currently learning PHP & web dev
 - 💞️ I’m looking to collaborate on anything open source
-- 📫 How to reach, me I dont Know ¯\_(ツ)_/¯
+- 📫 How to reach me, I dont Know ¯\_(ツ)_/¯
 </pre>
 
 <!---
