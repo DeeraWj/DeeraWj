@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DeeraWj
-- 📫 Contact me DeeraWj@gmail.com
-<!--- - 👀 I’m interested in almost anything 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Contact me deerawj@gmail.com
+- 👀 I’m interested computer programming & ethical hacking
+- 🌱 I’m currently learning PHP & web dev
+- 💞️ I’m looking to collaborate on anything open source
+- 📫 How to reach, me I dont Know ¯\_(ツ)_/¯
 
 <!---
 DeeraWj/DeeraWj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
