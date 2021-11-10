@@ -1,3 +1,4 @@
+(･.◤)
 <pre>
 - 👋 Hi, I’m @DeeraWj
 - 📫 Contact me deerawj@gmail.com
@@ -5,8 +6,6 @@
 - 🌱 I’m currently learning PHP & web dev
 - 💞️ I’m looking to collaborate on anything open source
 - 📫 How to reach, me I dont Know ¯\_(ツ)_/¯
-
-Also how weird is (/) ('',,'') (/)
 </pre>
 
 <!---
