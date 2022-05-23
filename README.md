@@ -6,9 +6,9 @@
 - 💞️ I’m looking to collaborate on anything open source
 - 📫 How to reach me, I dont Know ¯\_(ツ)_/¯
 
-- typing PB: 149.30
+- typing PB: 154.16
 </pre>
-![image](https://user-images.githubusercontent.com/84235833/169824505-49563f76-a3af-4aa0-b872-7ee5b0773273.png)
+![image](https://user-images.githubusercontent.com/84235833/169827750-a39413e2-3382-40ff-a004-d8b294c011da.png)
 
 <!---
 DeeraWj/DeeraWj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
