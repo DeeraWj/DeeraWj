@@ -4,7 +4,8 @@
 - 👀 I’m interested in learning all of the top 50 programming languages
 - 🌱 I’m currently learning rust, c++
 - 💞️ I’m looking to collaborate on anything open source
-- 📫 How to reach me, I dont Know ¯\_(ツ)_/¯
+
+- Currently facing some challenging exams. I'll start commiting on public repos from Oct 6th
 
 - typing PB: 154.16
 </pre>
