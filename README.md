@@ -1,5 +1,14 @@
 # Hello, World!
 
+<pre>
+    .___                                   __ 
+  __| _/____   ________________ __  _  __ |__|
+ / __ |/ __ \_/ __ \_  __ \__  \\ \/ \/ / |  |
+/ /_/ \  ___/\  ___/|  | \// __ \\     /  |  |
+\____ |\___  >\___  >__|  (____  /\/\_/\__|  |
+     \/    \/     \/           \/     \______|
+</pre>
+
 ## ntro
   - 👋 Hi, I’m @DeeraWj
   - 📫 Contact me at deerawj@gmail.com
@@ -10,6 +19,11 @@
   - 💞️ I’m looking to collaborate on anything open source
   - 🚧 Website is still under construction
  
+ ##
+![winning the top prize at an IT conference by @ChanuxBro](https://user-images.githubusercontent.com/84235833/209567096-5b3d031d-47ce-4695-8824-d41865a732c2.jpg)
+
+<i>winning the top prize at an IT conference by @ChanuxBro</i>
+
 ## typn
 <pre>
   - 15 sec: 145wpm
