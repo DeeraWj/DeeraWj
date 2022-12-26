@@ -4,6 +4,7 @@
   - 👋 Hi, I’m @DeeraWj
   - 📫 Contact me at deerawj@gmail.com
   - 💻 I’m currently learning Python and Rust
+  - 💼 I'm self-taught and love to learn new things
   - 🌱 I’m always looking to expand my knowledge and skillset
   - 🌐 I’m also working on developing my own website, deerawj.com
   - 💞️ I’m looking to collaborate on anything open source
