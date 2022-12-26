@@ -1,13 +1,5 @@
 <pre>
-- 👋 Hi, I’m @DeeraWj
-- 📫 Contact me at deerawj@gmail.com
-- 👀 I’m interested in learning all of the top 50 programming languages
-- 🌱 I’m currently learning rust, c++
-- 💞️ I’m looking to collaborate on anything open source
-
-- Currently facing some challenging exams. I'll start commiting on public repos from Oct 6th
-
-- typing PB: 154.16
+Hello! My name is @DeeraWj and you can reach me at deerawj@gmail.com. I am currently learning Python and Rust and am always eager to expand my knowledge and skillset in the field of programming. In my free time, I am also working on developing my own website, deerawj.com, which is still under construction. If you have a project in mind or are looking for someone to collaborate with on anything open source, please don't hesitate to reach out to me. I am excited to take on new challenges and grow as a programmer. Thank you for taking the time to get to know me!
 </pre>
 ![image](https://user-images.githubusercontent.com/84235833/169827750-a39413e2-3382-40ff-a004-d8b294c011da.png)
 
