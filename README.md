@@ -18,6 +18,7 @@
   - 🌐 I’m also working on developing my own website, deerawj.com
   - 💞️ I’m looking to collaborate on anything open source
   - 🚧 Website is still under construction
+  - 🔗 @deerawj on Twitter and Github
  
  ##
 ![winning the top prize at an IT conference by @ChanuxBro](https://user-images.githubusercontent.com/84235833/209567096-5b3d031d-47ce-4695-8824-d41865a732c2.jpg)
