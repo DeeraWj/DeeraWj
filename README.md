@@ -1,5 +1,7 @@
 # Hello, World!
 
+### > Working on rewriting my website to rust and studying for my exams
+
 <pre>
     .___                                   __ 
   __| _/____   ________________ __  _  __ |__|
