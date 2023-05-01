@@ -12,6 +12,7 @@
 </pre>
 
 ## ntro
+  - // studying for my OL, so taking a little break from github
   - 👋 Hi, I’m @DeeraWj
   - 📫 Contact me at deerawj@gmail.com
   - 💻 I’m currently learning Python and Rust
