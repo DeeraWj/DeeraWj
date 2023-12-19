@@ -30,11 +30,11 @@
 
 ## typn
 <pre>
-  - 15 sec: 154wpm
-  - 30 sec: 135wpm
-  - 60 sec: 127wpm
-  - 10 wrd: 175wpm
-  - 25 wrd: 157wpm
-  - 50 wrd: 116wpm
-</pre>
+  - 15 sec: 175wpm
+  - 30 sec: 148wpm
+  - 60 sec: 141wpm
+  - 10 wrd: 188wpm
+  - 25 wrd: 158wpm
+  - 50 wrd: 146wpm
+</pre>i
 ![image](https://user-images.githubusercontent.com/84235833/169827750-a39413e2-3382-40ff-a004-d8b294c011da.png)
