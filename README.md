@@ -36,5 +36,5 @@
   - 10 wrd: 188wpm
   - 25 wrd: 158wpm
   - 50 wrd: 146wpm
-</pre>i
+</pre>
 ![image](https://user-images.githubusercontent.com/84235833/169827750-a39413e2-3382-40ff-a004-d8b294c011da.png)
